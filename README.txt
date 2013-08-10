@@ -1,7 +1,7 @@
 === WPB Docs ===
 Contributors: Mladjo
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QXZZJ83F6PBDQ&lc=SE&item_name=WPB%20Docs%&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
-Tags:  shortcode, template-tag, custom post type
+Tags:  shortcode, custom post type, bootstrap, documentation
 Requires at least: 3.1.0
 Tested up to: 3.6
 Stable tag: 1.0
